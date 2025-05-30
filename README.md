@@ -31,7 +31,10 @@
 
 ### Chat Statistics & Export
 ![Chat Stats](https://github.com/sohan2311/Sohan-s-GPT-AI-Chatbot-Assistant/blob/7812253b2fd4b4135d956bad5b043ff224ed8fc2/Chatbot%20Model%20Images/Chat%20Stats.png)
+### Chat Model
 ![Chatbot model](https://github.com/sohan2311/Sohan-s-GPT-AI-Chatbot-Assistant/blob/d1aa00184300c015d896cc5a603ee10adb4fca9e/Chatbot%20Model%20Images/Chatbot%20Model.png)
+
+### Chat Stats and Export to Json Button
 ![Chat Stats and Export to Json Button](https://github.com/sohan2311/Sohan-s-GPT-AI-Chatbot-Assistant/blob/1e7c7ebcda874b56f6708b6bd331918214a63105/Chatbot%20Model%20Images/Chat%20Stats%20and%20Export%20button.png)
 
 </div>
