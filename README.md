@@ -26,7 +26,7 @@
 ![Configuration Panel](https://github.com/sohan2311/Sohan-s-GPT-AI-Chatbot-Assistant/blob/901ad3046fe21a50a569d04758f6b350fe5596c1/Chatbot%20Model%20Images/Model%20Selection.png)
 
 ### Chat Statistics & Export
-![Chatbot model](https://via.placeholder.com/400x300/f093fb/ffffff?text=Real-time+Chat+Statistics)
+![Chatbot model](https://github.com/sohan2311/Sohan-s-GPT-AI-Chatbot-Assistant/blob/d1aa00184300c015d896cc5a603ee10adb4fca9e/Chatbot%20Model%20Images/Chatbot%20Model.png)
 
 </div>
 
