@@ -4,15 +4,17 @@
 
 ![SohanGPT Logo](https://img.shields.io/badge/SohanGPT-AI%20Assistant-blue?style=for-the-badge&logo=robot&logoColor=white)
 
+</div>
+
 **A Beautiful, Feature-Rich AI Chat Interface Powered by Together.ai**
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 [![Together.ai](https://img.shields.io/badge/Together.ai-FF6B35?style=for-the-badge&logo=ai&logoColor=white)](https://together.ai/)
 
-[🚀 Live Demo](#) | [📖 Documentation](#features) | [🛠️ Installation](#installation) | [🤝 Contributing](#contributing)
+| [🛠️ Installation](#installation) | [🤝 Contributing](#contributing)
 
-</div>
+
 
 ## 📸 Screenshots
 
