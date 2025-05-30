@@ -4,9 +4,11 @@
 
 [Sohan's AI Assistant](https://github.com/sohan2311/Sohan-s-GPT-AI-Chatbot-Assistant/blob/3cbf332caafc7b6579a40b3f2053e045599701c0/streamlit_app.py)
 
-</div>
+
 
 **A Beautiful, Feature-Rich AI Chat Interface Powered by Together.ai**
+
+</div>
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
