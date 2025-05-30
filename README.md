@@ -14,7 +14,7 @@
 
 | [🛠️ Installation](#installation) | [🤝 Contributing](#contributing)
 
-
+---
 
 ## 📸 Screenshots
 
@@ -30,6 +30,8 @@
 ![Statistics](https://via.placeholder.com/400x300/f093fb/ffffff?text=Real-time+Chat+Statistics)
 
 </div>
+
+---
 
 ## ✨ Features
 
@@ -61,6 +63,8 @@
 - **API Integration**: Seamless Together.ai API integration
 - **State Management**: Efficient Streamlit session state handling
 
+---
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -73,8 +77,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/sohan2311/sohangpt-ai-assistant.git
-   cd sohangpt-ai-assistant
+   git clone https://github.com/sohan2311/Sohan-s-GPT-AI-Chatbot-Assistant.git
+   cd Sohan-s-GPT-AI-Chatbot-Assistant
    ```
 
 2. **Install dependencies**
@@ -91,7 +95,7 @@
 
 4. **Run the application**
    ```bash
-   streamlit run app.py
+   streamlit run streamlit_app.py
    ```
 
 5. **Open your browser**
@@ -192,12 +196,16 @@ The codebase is modular and extensible:
 - Add file upload capabilities
 - Create custom chat themes
 
+---
+
 ## 📊 Performance
 
 - **Response Time**: < 3 seconds average
 - **Concurrent Users**: Supports multiple simultaneous sessions
 - **Memory Usage**: Optimized session state management
 - **API Efficiency**: Smart request batching and error handling
+
+---
 
 ## 🤝 Contributing
 
@@ -220,6 +228,8 @@ We welcome contributions! Here's how to get started:
    ```
 7. **Open a Pull Request**
 
+---
+
 ### Development Guidelines
 
 - Follow PEP 8 style guide
@@ -227,9 +237,7 @@ We welcome contributions! Here's how to get started:
 - Test your changes locally
 - Update documentation as needed
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+---
 
 ## 🙏 Acknowledgments
 
@@ -240,9 +248,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **GitHub Issues**: [Report bugs or request features](https://github.com/sohan2311/sohangpt-ai-assistant/issues)
-- **Email**: [sohan2311@example.com](mailto:sohan2311@example.com)
-- **LinkedIn**: [Connect with Sohan](https://linkedin.com/in/sohan-maity)
+- **GitHub Issues**: [Report bugs or request features](https://github.com/sohan2311/Sohan-s-GPT-AI-Chatbot-Assistant/issues)
+- **Email**: [sohan2311@example.com](mailto:sohan.maity2311@gmail.com)
+- **LinkedIn**: [Connect with Sohan](https://www.linkedin.com/in/sohan-maity-26881a288/)
 
 ## 🔄 Version History
 
