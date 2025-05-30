@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[Sohan's AI Assistant](https://github.com/sohan2311/Sohan-s-GPT-AI-Chatbot-Assistant/blob/3cbf332caafc7b6579a40b3f2053e045599701c0/streamlit_app.py)
+[Sohan's AI Chatbot Assistant](https://github.com/sohan2311/Sohan-s-GPT-AI-Chatbot-Assistant/blob/3cbf332caafc7b6579a40b3f2053e045599701c0/streamlit_app.py)
 
 
 
