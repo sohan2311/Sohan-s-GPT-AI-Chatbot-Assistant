@@ -20,7 +20,7 @@
 <div align="center">
 
 ### Main Chat Interface
-![Chat Interface](Sohan's AI Assistant.png)
+![Chat Interface](https://github.com/sohan2311/Sohan-s-GPT-AI-Chatbot-Assistant/blob/0405858881d2103fb710a2e7b217fa386f8a3448/Sohan's%20AI%20Assistant.png)
 
 ### Model Selection & Configuration
 ![Configuration Panel](https://via.placeholder.com/400x600/764ba2/ffffff?text=Advanced+Configuration+Panel)
