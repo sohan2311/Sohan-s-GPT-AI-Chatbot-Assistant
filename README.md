@@ -249,8 +249,8 @@ We welcome contributions! Here's how to get started:
 ## 📞 Support
 
 - **GitHub Issues**: [Report bugs or request features](https://github.com/sohan2311/Sohan-s-GPT-AI-Chatbot-Assistant/issues)
-- **Email**: [sohan2311@example.com](mailto:sohan.maity2311@gmail.com)
-- **LinkedIn**: [Connect with Sohan](https://www.linkedin.com/in/sohan-maity-26881a288/)
+- **Email**: [sohan.maity2311@gmail.com](mailto:sohan.maity2311@gmail.com)
+- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/sohan-maity-26881a288/)
 
 ## 🔄 Version History
 
