@@ -20,10 +20,10 @@
 <div align="center">
 
 ### Main Chat Interface
-![Chat Interface](https://github.com/sohan2311/Sohan-s-GPT-AI-Chatbot-Assistant/blob/0405858881d2103fb710a2e7b217fa386f8a3448/Sohan's%20AI%20Assistant.png)
+![Chat Interface](https://github.com/sohan2311/Sohan-s-GPT-AI-Chatbot-Assistant/blob/901ad3046fe21a50a569d04758f6b350fe5596c1/Chatbot%20Model%20Images/Sohan's%20AI%20Assistant.png)
 
 ### Model Selection & Configuration
-![Configuration Panel](https://via.placeholder.com/400x600/764ba2/ffffff?text=Advanced+Configuration+Panel)
+![Configuration Panel](https://github.com/sohan2311/Sohan-s-GPT-AI-Chatbot-Assistant/blob/901ad3046fe21a50a569d04758f6b350fe5596c1/Chatbot%20Model%20Images/Model%20Selection.png)
 
 ### Chat Statistics & Export
 ![Statistics](https://via.placeholder.com/400x300/f093fb/ffffff?text=Real-time+Chat+Statistics)
