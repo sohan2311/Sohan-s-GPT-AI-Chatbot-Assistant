@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![SohanGPT Logo](https://img.shields.io/badge/SohanGPT-AI%20Assistant-blue?style=for-the-badge&logo=robot&logoColor=white)
+[![SohanGPT Logo](https://img.shields.io/badge/SohanGPT-AI%20Assistant-blue?style=for-the-badge&logo=robot&logoColor=white)](https://github.com/sohan2311/Sohan-s-GPT-AI-Chatbot-Assistant)
 
 </div>
 
